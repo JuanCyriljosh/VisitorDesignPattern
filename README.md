@@ -8,3 +8,47 @@ Implement a **visitor design pattern approach.** You must show the different ele
 
 ## UML Class Diagram:
 ![Blank diagram (6)](https://github.com/user-attachments/assets/633e88be-b6e1-469b-b8a3-e5241049a383)
+
+## Output:
+
+```java
+====================================
+        SHIPPING COST SUMMARY       
+====================================
+
+[Standard Shipping Costs]
+
+Item: Modern Table
+Base Price: ₱5000.00
+Shipping Cost: ₱200.00
+Total Cost: ₱5200.00
+
+Item: Modern Sofa
+Base Price: ₱15000.00
+Shipping Cost: ₱90.00
+Total Cost: ₱15090.00
+
+Item: Bookshelf
+Base Price: ₱2000.00
+Shipping Cost: ₱50.00
+Total Cost: ₱2050.00
+
+====================================
+
+[Express Shipping Costs]
+
+Item: Gaming Table
+Base Price: ₱5000.00
+Shipping Cost: ₱400.00
+Total Cost: ₱5400.00
+
+Item: Reversible Sofa
+Base Price: ₱15000.00
+Shipping Cost: ₱180.00
+Total Cost: ₱15180.00
+
+Item: Wall Mounted Shelf
+Base Price: ₱2000.00
+Shipping Cost: ₱100.00
+Total Cost: ₱2100.00
+====================================
